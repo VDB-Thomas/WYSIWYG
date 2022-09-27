@@ -16,4 +16,5 @@ Cependant j'ai des exigences particulières :
 ![image](https://user-images.githubusercontent.com/91490085/192474909-d8956806-c382-42d6-a2a1-1426319d8b60.png)
 
 Bonus 1 : Ajouter des boutons permettant l'ajout de balises dans la zone de texte (Gras, Souligné, Italic)
+
 Bonus 2 : Mettre en place un dark mode (c'est la vie !)
