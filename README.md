@@ -15,6 +15,6 @@ Cependant j'ai des exigences particulières :
   la barre doit être verte si je suis à moins de 100 caractères, orange entre 101 et 170 caractères et rouge lorsque je dépasse les 170 caractères.
 - Je veux qu'une petite animation (type loader) apparaisse lorsque mon curseur est dans la zone de texte, et disparaisse une fois que j'en sors.
 
-Bonus 1 : Ajouter des boutons permettant l'ajout de balises dans la zone de texte (Gras, Souligné, Italic)
+<b>Bonus 1</b> : Ajouter des boutons permettant l'ajout de balises dans la zone de texte (Gras, Souligné, Italic)
 
-Bonus 2 : Mettre en place un dark mode (c'est la vie !)
+<b>Bonus 2</b> : Mettre en place un dark mode (c'est la vie !)
