@@ -1,6 +1,6 @@
 <h1>Projet 1 </h1>
 
-Bonjour à tous, et bienvenue sur votre premier brief.
+<h4> Bonjour à tous, et bienvenue sur votre premier brief. </h4>
 
 Sur ce projet vous allez devoir créer un éditeur WYSIWYG basique.
 
