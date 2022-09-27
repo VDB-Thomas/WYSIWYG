@@ -1,11 +1,11 @@
-Projet 1 !
+<h1>Projet 1 </h1>
 
 Bonjour à tous, et bienvenue sur votre premier brief.
 
 Sur ce projet vous allez devoir créer un éditeur WYSIWYG basique.
 
 C'est quoi un éditeur WYSIWYG me direz-vous ?! Et bien c'est un éditeur qui vous permet d'interpréter en temps réel le code que vous écrivez.
-Par exemple, si vous placez des balises <b></b> autour d'un mot dans la zone de texte, Ce mot devra apparaitre en gras dans la zone d'affichage, sans que les balises n'aparaissent.
+Par exemple, si vous placez des balises "b" autour d'un mot dans la zone de texte, Ce mot devra apparaitre en gras dans la zone d'affichage, sans que les balises n'aparaissent.
 
 Cependant j'ai des exigences particulières : 
 - Je souhaite que l'on ne puisse pas dépasser 200 caractères dans la zone de texte.
